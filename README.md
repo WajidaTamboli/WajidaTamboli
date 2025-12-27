@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-![Profile Views](https://visitcount.itsvg.in/api?id=WajidaTamboli&icon=5&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=WajidaTamboli)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
